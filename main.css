@@ -32,6 +32,10 @@ header {
     margin: 0 15px;
   }
   
+  main {
+    margin: 20px;
+  }
+  
   nav ul li a {
     color: cyan; 
     font-size: 1.2em;
@@ -44,6 +48,12 @@ header {
     color: yellow;
     text-decoration: underline;
   }
+
+  footer {
+    font-size: 15px
+    padding: 10px;
+    color: black;
+  }
   
 
 body {
@@ -51,10 +61,10 @@ body {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     color: yellow;
 
-    background-image: url('Images/sky.gif'); /* Path to your GIF */
-    background-repeat: repeat; /* This will tile the GIF */
-    background-size: auto; /* Keeps the original size of the GIF */
-    background-attachment: fixed; /* Keeps the background fixed when scrolling */
-    background-position: top left; /* Position it from the top left corner */
+    background-image: url('Images/sky.gif');
+    background-repeat: repeat; 
+    background-size: auto; 
+    background-attachment: fixed; 
+    background-position: top left; /
   }
   
