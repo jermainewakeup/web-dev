@@ -1,0 +1,8 @@
+body {
+    background-image: url('Images/sky.gif'); /* Path to your GIF */
+    background-repeat: repeat; /* This will tile the GIF */
+    background-size: auto; /* Keeps the original size of the GIF */
+    background-attachment: fixed; /* Keeps the background fixed when scrolling */
+    background-position: top left; /* Position it from the top left corner */
+  }
+  
